@@ -1,6 +1,7 @@
 # WanXueHai
 WanXueHai ! 玩学海！\
 汇聚了一些对Hacking XueHai/ZhiTongYun有用的东西
+2026，最新的项目！
 ## Resources
 -  智通云 （学生端）v1.21.06.20251212hwS：[_zty_v1.21.06.20251212hwS.apk_](https://github.com/Redstix/WXH/releases/download/ZTP-26.01/zty_v1.21.06.20251212hwS.apk)
 -  智通平台（学生端）v3.123.10.20250218S：[_mdm_stu_v3.123.10.20250218S.apk_](https://github.com/Redstix/WXH/releases/download/ZTP-26.01/mdm_stu_v3.123.10.20250218S.apk)
@@ -12,4 +13,9 @@ WanXueHai ! 玩学海！\
 
 ## Tutorials
 
-
+## Poem
+《XH破解歌》\
+打倒学海，打倒学海，\
+杀智通云，杀智通云，\
+智通平台崩溃，智通平台崩溃，\
+动态码，动态码。
