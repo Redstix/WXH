@@ -76,6 +76,6 @@ if __name__ == "__main__":
 
     device_id = "R52TA0K08HJ"
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=128) as executor:
-        for i in range(1,100):
-            executor.submit(batch_patch_brush_code, i*10, i*10+100, device_id)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
+        for i in range(0,100):  #100线程
+            executor.submit(batch_patch_brush_code, i*1000, i*1000+999, device_id)
